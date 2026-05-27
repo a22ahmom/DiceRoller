@@ -1,0 +1,1 @@
+![Snapshot of interface](image.png)
